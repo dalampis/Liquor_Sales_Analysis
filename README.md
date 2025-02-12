@@ -4,3 +4,4 @@ The specific objectives for the project are:
 - Data Extraction and Cleaning in order to handle all the required information.
 - Data Analysis using Python and SQL, identifing the predominant item per zipcode and calculating the proportion of sales for each store between 2016 and 2019.
 - Data Visualization representing the analyzed data aesthetically and informatively.
+Finally, you can find an analytical report  detailing the methologies used, the analysis performed and the insights derived as well as the code.
